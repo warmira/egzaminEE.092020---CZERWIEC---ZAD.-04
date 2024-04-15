@@ -1,0 +1,48 @@
+body {
+    color: Garamond;
+}
+.left_top {
+    height: 500px;
+    width: 25%;
+    background-color: lavender;
+}
+
+.left-mid {
+    height: 300px;
+    width: 25%;
+    background-color: lavender;
+}
+
+.right-top {
+    height: 150px;
+    width: 75%;
+    background-color: Indigo;
+    color: white;
+    font-size: 200%;
+    justify-content: center;
+}
+
+.right-mid {
+    height: 650px;
+    width: 75%;
+    background-color: lavender;
+    color: white;
+    font-size: 200%;
+    justify-content: middle;
+}
+
+.bot {
+    background-color: indigo;
+    color: white;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+    padding: 5px;
+    margin: 10px;
+}
+
